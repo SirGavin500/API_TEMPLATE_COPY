@@ -1,0 +1,144 @@
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\appsettings.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.staticwebassets.endpoints.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.exe
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.deps.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.runtimeconfig.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.csproj.AssemblyReference.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.AssemblyInfoInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.AssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.csproj.CoreCompileInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\scopedcss\bundle\Day5ToDo.styles.css
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.csproj.Up2Date
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\refint\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\Day5ToDo.genruntimeconfig.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\Day5ToDo\obj\Debug\net9.0\ref\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.csproj.AssemblyReference.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.AssemblyInfoInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.AssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.csproj.CoreCompileInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\appsettings.json
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.staticwebassets.endpoints.json
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.exe
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.deps.json
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.runtimeconfig.json
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valtr\OneDrive\Desktop\API template\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.csproj.AssemblyReference.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.AssemblyInfoInputs.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.AssemblyInfo.cs
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.csproj.CoreCompileInputs.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\scopedcss\bundle\Day5ToDo.styles.css
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.csproj.Up2Date
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\refint\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\Day5ToDo.genruntimeconfig.cache
+C:\Users\valtr\OneDrive\Desktop\API template\obj\Debug\net9.0\ref\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\appsettings.json
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.staticwebassets.endpoints.json
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.exe
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.deps.json
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.runtimeconfig.json
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.csproj.AssemblyReference.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.AssemblyInfoInputs.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.AssemblyInfo.cs
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.csproj.CoreCompileInputs.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\scopedcss\bundle\Day5ToDo.styles.css
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.csproj.Up2Date
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\refint\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\Day5ToDo.genruntimeconfig.cache
+C:\Users\valtr\OneDrive\Desktop\API_template\obj\Debug\net9.0\ref\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\appsettings.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.staticwebassets.endpoints.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.exe
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.deps.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.runtimeconfig.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.csproj.AssemblyReference.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.AssemblyInfoInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.AssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.csproj.CoreCompileInputs.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\scopedcss\bundle\Day5ToDo.styles.css
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.csproj.Up2Date
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\refint\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.pdb
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.genruntimeconfig.cache
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\ref\Day5ToDo.dll
