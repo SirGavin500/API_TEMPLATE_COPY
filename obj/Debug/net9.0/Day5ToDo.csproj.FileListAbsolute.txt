@@ -142,3 +142,4 @@ C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.pdb
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.genruntimeconfig.cache
 C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\ref\Day5ToDo.dll
+C:\Users\valtr\OneDrive\Documents\Combine\Level 2 CodeStack Academy\API_TEMPLATE_COPY\obj\Debug\net9.0\Day5ToDo.sourcelink.json
