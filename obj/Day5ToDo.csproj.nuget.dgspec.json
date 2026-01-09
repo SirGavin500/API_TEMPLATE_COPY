@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\Day5ToDo.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\Day5ToDo.csproj",
         "packagesPath": "C:\\Users\\valtr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\obj\\",
+=======
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/API_TEMPLATE_COPY/Day5ToDo.csproj": {}
+  },
+  "projects": {
+    "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/API_TEMPLATE_COPY/Day5ToDo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/API_TEMPLATE_COPY/Day5ToDo.csproj",
+        "projectName": "Day5ToDo",
+        "projectPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/API_TEMPLATE_COPY/Day5ToDo.csproj",
+        "packagesPath": "/Users/brandonestrada/.nuget/packages/",
+        "outputPath": "/Users/brandonestrada/Documents/Code Stack Academy/git repo reviews/API_TEMPLATE_COPY/obj/",
+>>>>>>> c4f65a306940def9675aef20a1e68a4ae1bf7466
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valtr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/brandonestrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -68,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
