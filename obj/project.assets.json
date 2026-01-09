@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valtr\\OneDrive\\Documents\\Combine\\Level 2 CodeStack Academy\\API_TEMPLATE_COPY\\Day5ToDo.csproj",
+      "projectUniqueName": "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\Day5ToDo.csproj",
       "projectName": "Day5ToDo",
-      "projectPath": "C:\\Users\\valtr\\OneDrive\\Documents\\Combine\\Level 2 CodeStack Academy\\API_TEMPLATE_COPY\\Day5ToDo.csproj",
+      "projectPath": "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\Day5ToDo.csproj",
       "packagesPath": "C:\\Users\\valtr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valtr\\OneDrive\\Documents\\Combine\\Level 2 CodeStack Academy\\API_TEMPLATE_COPY\\obj\\",
+      "outputPath": "C:\\Users\\valtr\\OneDrive\\Documents\\API_TEMPLATE_COPY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valtr\\AppData\\Roaming\\NuGet\\NuGet.Config"
